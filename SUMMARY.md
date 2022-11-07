@@ -2,13 +2,11 @@
 
 * [👋 Welcome!](README.md)
 
-## About us
+## Version Control System
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 Git](version-control-system/git/README.md)
+  * [Git Notes from Geekyminds](version-control-system/git/git-notes-from-geekyminds.md)
+* [💖 Values](version-control-system/values.md)
 
 ## Team
 
