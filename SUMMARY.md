@@ -2,21 +2,35 @@
 
 * [👋 Welcome!](README.md)
 
+## Programming Language
+
+* [Python](programming-language/python/README.md)
+  * [Basics](programming-language/python/basics/README.md)
+    * [Ultimate Guide for Python from Noob to Pro](programming-language/python/basics/ultimate-guide-for-python-from-noob-to-pro.md)
+* [C++](programming-language/c++.md)
+* [JavaScript](programming-language/javascript.md)
+
 ## Version Control System
 
 * [🚀 Git](version-control-system/git/README.md)
   * [Git Notes from Geekyminds](version-control-system/git/git-notes-from-geekyminds.md)
-* [💖 Values](version-control-system/values.md)
 
-## Team
+## Basic Frontend
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [🐥 Basic Frontend - HTML, CSS, JS](basic-frontend/meet-the-team.md)
 
-## Collaborating
+## Frontend FrameWork
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🤝 Front-end Developer Frameworks](frontend-framework/how-we-work-together.md)
 
-## Policies
+## Basic Backend
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Back-End Development](basic-backend/requesting-time-off.md)
+
+## Backend Frameworks
+
+* [🧮 Back-end Developer Frameworks](backend-frameworks/back-end-developer-frameworks.md)
+
+## Tools and Resources
+
+* [Image Resources](tools-and-resources/image-resources.md)
